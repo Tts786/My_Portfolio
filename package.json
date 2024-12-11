@@ -66,9 +66,7 @@
     "build": "node scripts/build.js",
     "test": "node scripts/test.js"
   },
-
-  "homepage": "https://tts786.github.io/My_Portfolio",
-
+  "homepage": "https://Tts786.github.io/My_Portfolio",
   "eslintConfig": {
     "extends": [
       "react-app",
@@ -142,5 +140,8 @@
     "presets": [
       "react-app"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.2.0"
   }
 }
