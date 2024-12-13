@@ -3,14 +3,14 @@ import { Container, Row, Col, Card, Button } from 'react-bootstrap';
 
 const projects = [
   {
-    title: "Project One",
-    description: "Description of project one.",
+    title: "e-commerce",
+    description: "Fale Fashan is a fictional e-commerce website that specializes in selling fashion products online",
     link: "https://tts786.github.io/e-commerce/"
   },
   {
-    title: "Project Two",
-    description: "Description of project two.",
-    link: "https://tts786.github.io/template/"
+    title: "Simple Calculato",
+    description: "A simple calculator is a basic tool that allows users to perform fundamental arithmetic operations like addition, subtraction, multiplication, and division.",
+    link: "https://tts786.github.io/calculator/"
   },
   // Add more projects as needed
 ];

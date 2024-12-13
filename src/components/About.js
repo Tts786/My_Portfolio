@@ -1,4 +1,5 @@
 import React from 'react';
+import pic from '../assets/sd.jpg';
 import { Container, Row, Col } from 'react-bootstrap';
 // Adjust the path based on your folder structure
 
@@ -16,7 +17,8 @@ const About = () => {
             </p>
           </Col>
           <Col md={6}>
-           <img src="../sd.jpg" alt="Profile" className="img-fluid rounded-circle" />
+        
+           <img src="pic" alt="Profile" className="img-fluid rounded-circle" />
           </Col>
         </Row>
       </Container>
