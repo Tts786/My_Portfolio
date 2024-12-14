@@ -12,7 +12,7 @@ const projects = [
     description: "A simple calculator is a basic tool that allows users to perform fundamental arithmetic operations like addition, subtraction, multiplication, and division.",
     link: "https://tts786.github.io/calculator/"
   },
-  // Add more projects as needed
+ 
 ];
 
 const Projects = () => {
